@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 welcome  to the Git world
+=======
+Testing
+>>>>>>> 1fa0d402f54fcf6feb5cd40a628ad6eb3d459503
